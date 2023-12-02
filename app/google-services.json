@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "407711508950",
+    "firebase_url": "https://mychatroomii-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mychatroomii",
+    "storage_bucket": "mychatroomii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407711508950:android:5fef670065501fd3939c77",
+        "android_client_info": {
+          "package_name": "com.example.mychatroomii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkF0zRRlUAoj-JBTEcXBJkmGVLIplk8hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
