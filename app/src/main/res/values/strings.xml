@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyChatRoomII</string>
+    <string name="simple_chat">Simple Chat</string>
 </resources>
