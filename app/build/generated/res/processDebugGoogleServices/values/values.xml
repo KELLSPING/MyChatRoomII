@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://mychatroomii-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">407711508950</string>
+    <string name="google_api_key" translatable="false">AIzaSyCkF0zRRlUAoj-JBTEcXBJkmGVLIplk8hw</string>
+    <string name="google_app_id" translatable="false">1:407711508950:android:5fef670065501fd3939c77</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCkF0zRRlUAoj-JBTEcXBJkmGVLIplk8hw</string>
+    <string name="google_storage_bucket" translatable="false">mychatroomii.appspot.com</string>
+    <string name="project_id" translatable="false">mychatroomii</string>
+</resources>
